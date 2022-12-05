@@ -1,8 +1,8 @@
 # gptchat
 OpenAI GPT Chat CLI written in bash.
 
-# Get an OPENAPI API KEY from OPENAI.
-export OPENAI_API_KEY=<key>
+### Export your OpenAI API Key
+export OPENAI_API_KEY=\<key>
 
 ### Install and run
 ```console
